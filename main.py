@@ -10,6 +10,7 @@ stockvalues_dict = {
   "DIS": "320.60" ,
   "BBY": "175.45" ,
   "AMZN": "350.85" ,
+  "BBWI": "44.32" ,
 }
 chosen_stock = input("Please enter the stock symbol:")
 
