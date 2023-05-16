@@ -1,3 +1,4 @@
+print("Welcome to Dakota's Stock Program.")
 stockvalues_dict = {
   "SIRI": "85.55" ,
   "AAPL": "100.33" ,
@@ -11,6 +12,7 @@ stockvalues_dict = {
   "BBY": "175.45" ,
   "AMZN": "350.85" ,
   "BBWI": "44.32" ,
+  
 }
 chosen_stock = input("Please enter the stock symbol:")
 
